@@ -1,1 +1,1 @@
-Тема звіту: stash і revert (lab3-v3)
+РўРµРјР° Р·РІС–С‚Сѓ: stash С– revert (lab3-v3)
